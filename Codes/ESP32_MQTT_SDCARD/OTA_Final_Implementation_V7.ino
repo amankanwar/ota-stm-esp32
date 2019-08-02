@@ -1,6 +1,14 @@
 /*********************** This is final Working code as of now and all the functionalities are working fine *******************
 
+Author      : Aman Kanwar
 
+Code Version: V7.0
+
+Project     : OTA Firmware Update
+
+Finalized project.
+
+------------ Newer implementations are discoussed below ----------------
 
     == SD card has been implemented, just checksum is added ==
 
